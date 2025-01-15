@@ -17,3 +17,4 @@ Customers
 
 To note, most of the data did come from Instacart itself while the customers data set and the "prices" column in the Products data set were both made by CareerFoundry for this project.
 ## Procedure
+All of the python code was done in Jupyter Notebooks with the pandas, numpy, os, matplotlib.pyplot, seaborn, and scipy libraries
