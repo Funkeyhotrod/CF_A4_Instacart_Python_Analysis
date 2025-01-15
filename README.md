@@ -5,15 +5,15 @@ Instacart is an online grocery store that operates through an app. They already 
 ## Data
 For this project I was given 5 different data sets to start with.
 
-Orders
+[Orders](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
 
-Products
+[Products](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
 
-Orders_Products_Prior
+[Orders_Products_Prior](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.6_orders_products_prior.zip)
 
-Departments
+[Departments](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip)
 
-Customers
+[Customers](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 
 To note, most of the data did come from Instacart itself while the customers data set and the "prices" column in the Products data set were both made by CareerFoundry for this project.
 ## Procedure
